@@ -1,0 +1,27 @@
+# Core LLM & Orchestration
+groq==0.11.0
+langchain==0.3.7
+langchain-groq==0.2.1
+langgraph==0.2.45
+chromadb==0.4.24
+sentence-transformers==3.3.1
+
+# Web scraping
+beautifulsoup4==4.12.3
+requests==2.32.3
+lxml==5.3.0
+
+# API backend
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+pydantic==2.10.1
+
+# Frontend serving / utilities
+python-dotenv==1.0.1
+python-multipart==0.0.12
+
+# PDF generation
+reportlab==4.2.5
+
+# Streamlit UI (optional, for demo)
+streamlit==1.40.2
