@@ -1,0 +1,200 @@
+[
+  {
+    "id": "labor_1",
+    "category": "labor",
+    "title": "Payment of Wages Act, 1936 - Section 5",
+    "text": "Wages must be paid before the expiry of the 7th day (for establishments with less than 1000 workers) or 10th day after the wage period ends. Delayed payment entitles the worker to claim compensation."
+  },
+  {
+    "id": "labor_2",
+    "category": "labor",
+    "title": "Industrial Disputes Act, 1947 - Section 25F",
+    "text": "No workman employed for one year or more can be retrenched without one month's notice or pay in lieu, and compensation equal to 15 days' average pay for every completed year of service."
+  },
+  {
+    "id": "labor_3",
+    "category": "labor",
+    "title": "Payment of Gratuity Act, 1972",
+    "text": "Employees who have completed 5 years of continuous service are entitled to gratuity on termination, resignation, retirement, or death, calculated as 15 days wages for each completed year of service."
+  },
+  {
+    "id": "labor_4",
+    "category": "labor",
+    "title": "Sexual Harassment of Women at Workplace Act, 2013",
+    "text": "Every workplace with 10 or more employees must have an Internal Complaints Committee. A woman facing sexual harassment at work can file a written complaint within 3 months of the incident."
+  },
+  {
+    "id": "labor_5",
+    "category": "labor",
+    "title": "Employees Provident Fund Act, 1952",
+    "text": "Employers must deposit both employer and employee PF contributions monthly. Non-payment or delay can be reported to the EPFO, which can recover dues with damages and interest from the employer."
+  },
+  {
+    "id": "land_1",
+    "category": "land",
+    "title": "Transfer of Property Act, 1882 - Section 108",
+    "text": "A tenant is entitled to receive back the security deposit at the end of tenancy, minus lawful deductions for damages. Unreasonable withholding of deposit can be challenged in civil court or rent tribunal."
+  },
+  {
+    "id": "land_2",
+    "category": "land",
+    "title": "Specific Relief Act, 1963 - Section 6",
+    "text": "A person dispossessed of immovable property without due process of law can recover possession through a suit filed within 6 months of dispossession, regardless of any other title claims."
+  },
+  {
+    "id": "land_3",
+    "category": "land",
+    "title": "Model Tenancy Act, 2021 - Section 4",
+    "text": "Written rent agreements must be registered with the Rent Authority. Security deposit is capped at 2 months' rent for residential and 6 months' for non-residential properties."
+  },
+  {
+    "id": "land_4",
+    "category": "land",
+    "title": "Real Estate (Regulation and Development) Act, 2016",
+    "text": "Builders must register projects with RERA and cannot deviate from approved plans without buyer consent. Delayed possession entitles buyers to compensation or refund with interest."
+  },
+  {
+    "id": "land_5",
+    "category": "land",
+    "title": "Indian Easements Act, 1882 - Right of Way",
+    "text": "A person can claim a right of way over neighboring land if it has been used openly and continuously for 20 years, or if it is the only reasonable access to their property."
+  },
+  {
+    "id": "consumer_1",
+    "category": "consumer",
+    "title": "Consumer Protection Act, 2019 - Section 2(11)",
+    "text": "A consumer can seek redressal for defective goods, deficient services, unfair trade practices, and unsafe goods. Complaints can be filed in District, State, or National Consumer Commissions based on claim value."
+  },
+  {
+    "id": "consumer_2",
+    "category": "consumer",
+    "title": "Consumer Protection (E-Commerce) Rules, 2020",
+    "text": "E-commerce sellers must provide clear refund, exchange, and warranty policies. Sellers cannot refuse legitimate refund claims for defective or misrepresented goods purchased online."
+  },
+  {
+    "id": "consumer_3",
+    "category": "consumer",
+    "title": "Consumer Protection Act, 2019 - Section 35",
+    "text": "A consumer complaint can be filed within 2 years from the date the cause of action arose, either in person, through an agent, or electronically via the e-Daakhil portal."
+  },
+  {
+    "id": "consumer_4",
+    "category": "consumer",
+    "title": "Consumer Protection Act, 2019 - Product Liability",
+    "text": "Manufacturers, sellers, and service providers can be held liable for harm caused by defective products or deficient services, including compensation for injury, loss, or damage."
+  },
+  {
+    "id": "consumer_5",
+    "category": "consumer",
+    "title": "Consumer Protection Act, 2019 - Misleading Advertisement",
+    "text": "False or misleading advertising is punishable under the Act. Consumers misled by false claims about a product or service can seek compensation and the advertisement can be banned."
+  },
+  {
+    "id": "family_1",
+    "category": "family",
+    "title": "Hindu Marriage Act, 1955 - Section 24",
+    "text": "Either spouse who lacks independent income sufficient for support can claim maintenance during the pendency of proceedings, and litigation expenses, from the other spouse."
+  },
+  {
+    "id": "family_2",
+    "category": "family",
+    "title": "Protection of Women from Domestic Violence Act, 2005",
+    "text": "A woman facing domestic violence can seek protection orders, residence orders, and monetary relief through a Magistrate, in addition to filing a police complaint."
+  },
+  {
+    "id": "family_3",
+    "category": "family",
+    "title": "Section 125 CrPC (now Section 144 BNSS)",
+    "text": "A person can claim maintenance for themselves and children if a spouse neglects or refuses to maintain them, provided they are unable to maintain themselves independently."
+  },
+  {
+    "id": "family_4",
+    "category": "family",
+    "title": "Hindu Marriage Act, 1955 - Section 13 (Grounds for Divorce)",
+    "text": "Divorce can be sought on grounds including cruelty, desertion for 2+ years, conversion of religion, mental disorder, or mutual consent under Section 13B."
+  },
+  {
+    "id": "family_5",
+    "category": "family",
+    "title": "Dowry Prohibition Act, 1961 - Section 3",
+    "text": "Giving, taking, or demanding dowry is a punishable offense with imprisonment up to 5 years and fine. Complaints can be filed with police or the Dowry Prohibition Officer."
+  },
+  {
+    "id": "cyber_1",
+    "category": "cyber",
+    "title": "Information Technology Act, 2000 - Section 66C",
+    "text": "Identity theft, including fraudulent use of another person's password, digital signature, or unique identification, is punishable with imprisonment up to 3 years and fine up to Rs 1 lakh."
+  },
+  {
+    "id": "cyber_2",
+    "category": "cyber",
+    "title": "Information Technology Act, 2000 - Section 66D",
+    "text": "Cheating by personation using computer resources, such as impersonation for fraud, is punishable with imprisonment up to 3 years and fine up to Rs 1 lakh."
+  },
+  {
+    "id": "cyber_3",
+    "category": "cyber",
+    "title": "National Cyber Crime Reporting Portal",
+    "text": "Victims of cybercrime, including financial fraud and harassment, can file complaints at cybercrime.gov.in or call the helpline 1930 for immediate assistance in freezing fraudulent transactions."
+  },
+  {
+    "id": "cyber_4",
+    "category": "cyber",
+    "title": "Information Technology Act, 2000 - Section 67",
+    "text": "Publishing or transmitting obscene material electronically, including morphed images or revenge content, is punishable with imprisonment up to 5 years on repeat conviction and fine up to Rs 10 lakh."
+  },
+  {
+    "id": "cyber_5",
+    "category": "cyber",
+    "title": "Information Technology Act, 2000 - Section 43",
+    "text": "Unauthorized access to a computer system, data theft, or introducing viruses can result in civil liability requiring the offender to pay compensation to the affected person."
+  },
+  {
+    "id": "police_1",
+    "category": "police",
+    "title": "Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 - Section 173",
+    "text": "Police are legally required to register an FIR for any cognizable offense. Refusal to register an FIR can be escalated to the Superintendent of Police or challenged before a Magistrate under Section 175(3)."
+  },
+  {
+    "id": "police_2",
+    "category": "police",
+    "title": "Right to Free Copy of FIR",
+    "text": "A complainant is entitled to receive a free copy of the FIR immediately after registration, as mandated by Supreme Court directions and BNSS provisions."
+  },
+  {
+    "id": "police_3",
+    "category": "police",
+    "title": "Zero FIR Provision",
+    "text": "A Zero FIR can be filed at any police station regardless of jurisdiction, and is later transferred to the police station with actual jurisdiction over the offense."
+  },
+  {
+    "id": "police_4",
+    "category": "police",
+    "title": "BNS 2023 - Section 318 (Cheating)",
+    "text": "Whoever deceives a person and dishonestly induces them to deliver property, or to do or not do something they would not otherwise do, commits cheating, punishable with imprisonment up to 3 years, or 7 years if committed by a person in a position of trust."
+  },
+  {
+    "id": "police_5",
+    "category": "police",
+    "title": "BNS 2023 - Section 74 (Assault on Woman with Intent to Outrage Modesty)",
+    "text": "Assault or use of criminal force against a woman intending to outrage her modesty is punishable with imprisonment of 1 to 5 years and fine."
+  },
+  {
+    "id": "other_1",
+    "category": "other",
+    "title": "Legal Services Authorities Act, 1987",
+    "text": "Free legal aid and advice is available to eligible citizens (including women, SC/ST, persons with disabilities, and those below a specified income) through District Legal Services Authorities (DLSA)."
+  },
+  {
+    "id": "other_2",
+    "category": "other",
+    "title": "Right to Information Act, 2005",
+    "text": "Any citizen can request information from a public authority, which must respond within 30 days. This can be used to obtain records on government decisions, delays, or grievances involving public bodies."
+  },
+  {
+    "id": "other_3",
+    "category": "other",
+    "title": "BNS 2023 - Section 356 (Defamation)",
+    "text": "Making or publishing false statements that harm a person's reputation is punishable with simple imprisonment up to 2 years, fine, or both, unless covered under recognized exceptions like truth for public good."
+  }
+]
